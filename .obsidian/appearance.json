@@ -1,8 +1,10 @@
 {
-  "accentColor": "",
   "cssTheme": "Minimal",
   "theme": "obsidian",
-  "interfaceFontFamily": "霞鹜文楷等宽",
+  "interfaceFontFamily": "LXGW WenKai Mono,LXGW WenKai",
   "monospaceFontFamily": "Source Code Pro",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "translucency": true,
+  "accentColor": "",
+  "textFontFamily": "LXGW WenKai Mono,LXGW WenKai"
 }
