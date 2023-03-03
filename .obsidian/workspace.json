@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "333d2dd64436333e",
+            "id": "4bf93f3fd161b093",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "4bf93f3fd161b093",
+            "id": "92f1c429fe4b5cd3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/阅读/巨人的工具.md",
+                "file": "DailyNotes/2023-03-04.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Areas/阅读/巨人的工具.md",
+                "file": "DailyNotes/2023-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/阅读/巨人的工具.md",
+                "file": "DailyNotes/2023-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/阅读/巨人的工具.md"
+                "file": "DailyNotes/2023-03-04.md"
               }
             }
           },
@@ -167,11 +167,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0d8f81e8db21272e",
+  "active": "92f1c429fe4b5cd3",
   "lastOpenFiles": [
-    "Areas/阅读/巨人的工具",
-    "DailyNotes/2023-03-03.md",
     "Areas/阅读/巨人的工具.md",
+    "DailyNotes/2023-03-04.md",
+    "DailyNotes/2023-03-03.md",
+    "Areas/阅读/巨人的工具",
     "Areas/阅读",
     "Areas",
     "DailyNotes",
