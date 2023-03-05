@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8a86f19535a621f0",
+        "id": "9d73cc5105544935",
         "type": "tabs",
         "children": [
           {
-            "id": "4bf93f3fd161b093",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2023-03-03.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92f1c429fe4b5cd3",
+            "id": "3af5fcfb3db87a3c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,9 +18,68 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5410d2e5f3948a30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/阅读/Anything You Want/05. A business model with only two numbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c2a74a57f9f1249",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/阅读/Anything You Want/09. Just like that, my plan completely changed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed5808fcb99e7dcb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/阅读/Anything You Want/10. The advantage of no funding.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c8d52682c94695b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Areas/阅读/Anything You Want/11.  Start now. No funding needed..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3dc7fceddb6506a",
+            "type": "leaf",
+            "state": {
+              "type": "diff-view",
+              "state": {
+                "file": ".obsidian/workspace.json",
+                "staged": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -98,7 +145,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2023-03-04.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +161,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2023-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +182,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DailyNotes/2023-03-04.md"
-              }
+              "state": {}
             }
           },
           {
@@ -163,26 +206,34 @@
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "7b31603d38cd8e97",
+  "active": "c3dc7fceddb6506a",
   "lastOpenFiles": [
-    "新建 文本文档.txt",
-    "Areas/阅读/巨人的工具.md",
-    "Areas/阅读/Anything You Want/12. Ideas are just a multiplier of execution.md",
-    "Areas/阅读/Anything You Want/05. A business model with only two numbers.md",
-    "DailyNotes/2023-03-04.md",
-    "Areas/阅读/Anything You Want/index.md",
+    "DailyNotes/2023-03-06.md",
     "Areas/阅读/Anything You Want/11.  Start now. No funding needed..md",
+    "Weekly/2023 Week 10.md",
+    "Weekly",
+    "Extra/template/weeklyTemp.md",
+    "Extra/template/dailyNoteTemp.md",
+    "Extra/template",
+    "Extra",
+    "DailyNotes/2023-03-05.md",
+    "Areas/阅读/书单.md",
+    "Areas/阅读/Anything You Want/index.md",
+    "Areas/阅读/Anything You Want/12. Ideas are just a multiplier of execution.md",
     "Areas/阅读/Anything You Want/10. The advantage of no funding.md",
     "Areas/阅读/Anything You Want/09. Just like that, my plan completely changed.md",
+    "Areas/阅读/Anything You Want/05. A business model with only two numbers.md",
     "Areas/阅读/Anything You Want/08. No “yes.” Either “Hell yeah!” or “no.”.md",
     "Areas/阅读/Anything You Want/07. If it’s not a hit, switch.md",
     "Areas/阅读/Anything You Want/06. This ain’t no revolution.md",
+    "DailyNotes/2023-03-04.md",
     "Areas/阅读/Anything You Want",
     "DailyNotes/2023-03-03.md",
+    "Areas/阅读/巨人的工具.md",
     "Areas/阅读/巨人的工具",
     "Areas/阅读",
     "Areas",
