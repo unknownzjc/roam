@@ -8,78 +8,36 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3af5fcfb3db87a3c",
+            "id": "b9a56e23b15c2655",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2023-03-04.md",
+                "file": "Weekly/2023 Week 10.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "5410d2e5f3948a30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/阅读/Anything You Want/05. A business model with only two numbers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8c2a74a57f9f1249",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/阅读/Anything You Want/09. Just like that, my plan completely changed.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed5808fcb99e7dcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/阅读/Anything You Want/10. The advantage of no funding.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8d52682c94695b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/阅读/Anything You Want/11.  Start now. No funding needed..md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3dc7fceddb6506a",
-            "type": "leaf",
-            "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
+      },
+      {
+        "id": "2856fa3ba125964c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90a9aa67fdb4770c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/2023-03-07.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DailyNotes/2023-03-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DailyNotes/2023-03-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DailyNotes/2023-03-07.md"
+              }
             }
           },
           {
@@ -198,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,19 +173,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c3dc7fceddb6506a",
+  "active": "90a9aa67fdb4770c",
   "lastOpenFiles": [
+    "Extra/template/dailyNoteTemp.md",
+    "DailyNotes/2023-03-07.md",
     "DailyNotes/2023-03-06.md",
-    "Areas/阅读/Anything You Want/11.  Start now. No funding needed..md",
     "Weekly/2023 Week 10.md",
+    "Untitled.md",
+    "Areas/阅读/How to do the work/1. You Are Your Own Best Healer.md",
+    "Areas/阅读/How to do the work/index.md",
+    "Areas/阅读/Anything You Want/index.md",
+    "Areas/阅读/巨人的工具.md",
+    "Areas/阅读/How to do the work",
+    "2023-03-06.md",
+    "ArticleWeekly/1.md",
+    "ArticleWeekly",
+    "Areas/阅读/Anything You Want/11.  Start now. No funding needed..md",
     "Weekly",
     "Extra/template/weeklyTemp.md",
-    "Extra/template/dailyNoteTemp.md",
     "Extra/template",
     "Extra",
     "DailyNotes/2023-03-05.md",
     "Areas/阅读/书单.md",
-    "Areas/阅读/Anything You Want/index.md",
     "Areas/阅读/Anything You Want/12. Ideas are just a multiplier of execution.md",
     "Areas/阅读/Anything You Want/10. The advantage of no funding.md",
     "Areas/阅读/Anything You Want/09. Just like that, my plan completely changed.md",
@@ -233,7 +205,6 @@
     "DailyNotes/2023-03-04.md",
     "Areas/阅读/Anything You Want",
     "DailyNotes/2023-03-03.md",
-    "Areas/阅读/巨人的工具.md",
     "Areas/阅读/巨人的工具",
     "Areas/阅读",
     "Areas",

@@ -15,3 +15,4 @@ date modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 	- [ ] 冷水浴
 	- [ ] 制定第二天工作计划
 - 想法区
+- 复盘
