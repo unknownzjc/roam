@@ -7,12 +7,14 @@ date modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 - Deep Work 1
 - Noon
 - Deep Work 2
-- 明天的计划和 3 Frog
-	- 
+
 - 运动
+- Shallow Work
+	- [ ] 制定第二天工作计划
 - After Work
 	- [ ] 冥想
 	- [ ] 冷水浴
-	- [ ] 制定第二天工作计划
+- 明天的计划和 3 Frog
+	- 
 - 想法区
 - 复盘
