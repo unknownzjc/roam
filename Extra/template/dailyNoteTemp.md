@@ -7,7 +7,6 @@ date modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 - Deep Work 1
 - Noon
 - Deep Work 2
-
 - 运动
 - Shallow Work
 	- [ ] 制定第二天工作计划
