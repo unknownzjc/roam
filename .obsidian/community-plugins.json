@@ -1,9 +1,9 @@
 [
   "oz-image-plugin",
-  "cm-editor-syntax-highlight-obsidian",
   "nldates-obsidian",
-  "obsidian-outliner",
   "obsidian-style-settings",
   "obsidian-git",
-  "templater-obsidian"
+  "templater-obsidian",
+  "cm-editor-syntax-highlight-obsidian",
+  "obsidian-outliner"
 ]

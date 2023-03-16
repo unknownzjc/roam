@@ -3,8 +3,8 @@
   "theme": "obsidian",
   "interfaceFontFamily": "LXGW WenKai Mono,LXGW WenKai",
   "monospaceFontFamily": "Source Code Pro",
-  "baseFontSize": 18,
-  "translucency": false,
+  "baseFontSize": 20,
+  "translucency": true,
   "accentColor": "",
   "textFontFamily": "LXGW WenKai Mono,LXGW WenKai"
 }
