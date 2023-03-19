@@ -4,7 +4,7 @@
   "interfaceFontFamily": "LXGW WenKai Mono,LXGW WenKai",
   "monospaceFontFamily": "Source Code Pro",
   "baseFontSize": 20,
-  "translucency": true,
+  "translucency": false,
   "accentColor": "",
   "textFontFamily": "LXGW WenKai Mono,LXGW WenKai"
 }
