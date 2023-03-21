@@ -83,3 +83,16 @@ let arr: Vec<i32> = r.collect();
 - Drop trait
 	- 实现了 Drop trait 的数据类型在所有权被转移之后，作用域结束后会调用 `drop` 进行资源清理。所以说，实现了 Drop trait 的数据类型具有更严格的所有权转移机制和资源清理机制
 	- Drop trait 和 Copy trait 是互斥的操作
+### 引用和借用
+主要是为了解决变量在传递过程中，需要传入传出的问题，通过引用可以使函数可以引用值而不对值有所有权。
+- 引用可以通过 `&` 来表示
+  ```Rust
+  fn calc_len(s: &String) -> usize {
+      s.len()
+  }
+  let s = String::from("hello");
+  let len = calc_len(&s);
+```
+- 当一个变量借用别人时，它不能修改借用的东西
+- 可变借用和不可变引用不能在同一个作用域下共存
+- 不能同时有两个可变引用存在
