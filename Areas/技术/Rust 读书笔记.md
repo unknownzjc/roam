@@ -96,3 +96,29 @@ let arr: Vec<i32> = r.collect();
 - 当一个变量借用别人时，它不能修改借用的东西
 - 可变借用和不可变引用不能在同一个作用域下共存
 - 不能同时有两个可变引用存在
+### 切片
+保证内存安全用的，可以在不拥有所有权的情况下保持对值的一部分的引用。
+
+## 结构体
+类似对象，用于存储一个事物的相关特性
+- 结构体支持属性名的简洁表达
+- 支持解构语法
+  ```Rust
+	#[derive(Debug)]
+	struct User {
+	
+		name: String,
+	
+		age: i8
+	
+	}
+
+	fn build_user(name: String, age: i8) -> User{
+		User {
+			name,
+			age
+		}
+	}
+```
+- 如果要做一些打印操作，就要给结构体派生 Debug 的 trait
+- 使用 `impl` 来声明方法

@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3288161126dc971",
+        "id": "debddbea31de3d76",
         "type": "tabs",
         "children": [
           {
-            "id": "46f900f74e9b2229",
+            "id": "ac1392df48e85333",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly/2023 Week 10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "772951c974e8862a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "63926863343eea71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/2023-03-08.md",
+                "file": "DailyNotes/2023-03-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#hightlight",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -82,8 +64,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7f991ca15a391649",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -103,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2023-03-08.md",
+                "file": "DailyNotes/2023-03-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2023-03-08.md",
+                "file": "DailyNotes/2023-03-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2023-03-08.md"
+                "file": "DailyNotes/2023-03-27.md"
               }
             }
           },
@@ -155,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -170,46 +160,47 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "command-palette:打开命令面板": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "63926863343eea71",
+  "active": "ac1392df48e85333",
   "lastOpenFiles": [
-    "DailyNotes/2023-03-07.md",
-    "DailyNotes/2023-03-08.md",
+    "Areas/技术/Rust 读书笔记.md",
     "Areas/技术/前端换肤.md",
-    "DailyNotes/2023-03-06.md",
-    "Weekly/2023 Week 10.md",
+    "Weekly/2023 Week 13.md",
+    "DailyNotes/2023-03-27.md",
+    "ArticleWeekly/13.md",
+    "Inbox/TODO.md",
+    "DailyNotes/2023-03-24.md",
+    "DailyNotes/2023-03-23.md",
+    "DailyNotes/2023-03-22.md",
+    "DailyNotes/2023-03-21.md",
+    "Inbox",
+    "Areas/技术/React 学习指南.md",
+    "Weekly/2023 Week 12.md",
+    "DailyNotes/2023-03-20.md",
+    "ArticleWeekly/12.md",
+    "ArticleWeekly/11.md",
+    "DailyNotes/2023-03-19.md",
+    "Areas/写点什么/2023-03-19.md",
+    "Areas/写点什么/2023-03-18.md",
+    "DailyNotes/2023-03-18.md",
+    "DailyNotes/2023-03-16.md",
+    "DailyNotes/2023-03-17.md",
+    "Areas/写点什么/习惯养成.md",
+    "Areas/写点什么/2023-03-17.md",
+    "DailyNotes/2023-03-14.md",
+    "DailyNotes/2023-03-15.md",
+    "Areas/写点什么/2023-03-15.md",
+    "Project/大屏项目",
+    "Project",
+    "Areas/写点什么",
     "Areas/技术",
-    "ArticleWeekly/1.md",
-    "Untitled.md",
-    "Extra/template/dailyNoteTemp.md",
-    "Areas/阅读/How to do the work/1. You Are Your Own Best Healer.md",
-    "Areas/阅读/How to do the work/index.md",
-    "Areas/阅读/Anything You Want/index.md",
-    "Areas/阅读/巨人的工具.md",
     "Areas/阅读/How to do the work",
-    "2023-03-06.md",
     "ArticleWeekly",
-    "Areas/阅读/Anything You Want/11.  Start now. No funding needed..md",
     "Weekly",
-    "Extra/template/weeklyTemp.md",
     "Extra/template",
-    "Extra",
-    "DailyNotes/2023-03-05.md",
-    "Areas/阅读/书单.md",
-    "Areas/阅读/Anything You Want/12. Ideas are just a multiplier of execution.md",
-    "Areas/阅读/Anything You Want/10. The advantage of no funding.md",
-    "Areas/阅读/Anything You Want/09. Just like that, my plan completely changed.md",
-    "Areas/阅读/Anything You Want/05. A business model with only two numbers.md",
-    "Areas/阅读/Anything You Want/08. No “yes.” Either “Hell yeah!” or “no.”.md",
-    "Areas/阅读/Anything You Want/07. If it’s not a hit, switch.md",
-    "Areas/阅读/Anything You Want/06. This ain’t no revolution.md",
-    "DailyNotes/2023-03-04.md",
-    "Areas/阅读/Anything You Want",
-    "DailyNotes/2023-03-03.md",
-    "Areas/阅读/巨人的工具",
-    "Areas/阅读",
-    "Areas"
+    "Extra"
   ]
 }
