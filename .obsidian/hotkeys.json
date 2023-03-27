@@ -58,6 +58,7 @@
   "daily-notes": [
     {
       "modifiers": [
+        "Alt",
         "Mod"
       ],
       "key": "J"
@@ -66,19 +67,43 @@
   "daily-notes:goto-next": [
     {
       "modifiers": [
-        "Mod",
-        "Meta"
+        "Alt",
+        "Mod"
       ],
-      "key": "ArrowDown"
+      "key": "ArrowUp"
     }
   ],
   "daily-notes:goto-prev": [
     {
       "modifiers": [
-        "Mod",
-        "Meta"
+        "Alt",
+        "Mod"
       ],
-      "key": "ArrowUp"
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
     }
   ]
 }
