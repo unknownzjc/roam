@@ -4,35 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "debddbea31de3d76",
+        "id": "cdf39f6de7428b44",
         "type": "tabs",
         "children": [
           {
-            "id": "3300853d357fc05b",
+            "id": "b5db431bda2e8b61",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2023-03-27.md",
+                "file": "DailyNotes/2023-03-29.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "97fb4405e18cbf10",
+            "id": "f25c8557131c088c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly/2023 Week 13.md",
+                "file": "DailyNotes/2023-03-29.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hightlight",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +78,7 @@
             }
           },
           {
-            "id": "7f991ca15a391649",
+            "id": "e860229f5abc2943",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -107,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekly/2023 Week 13.md",
+                "file": "DailyNotes/2023-03-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly/2023 Week 13.md",
+                "file": "DailyNotes/2023-03-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekly/2023 Week 13.md"
+                "file": "DailyNotes/2023-03-29.md"
               }
             }
           },
@@ -159,7 +158,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -177,43 +177,43 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "97fb4405e18cbf10",
+  "active": "b5db431bda2e8b61",
   "lastOpenFiles": [
-    "DailyNotes/2023-03-27.md",
-    "Inbox/TODO.md",
-    "DailyNotes/2023-03-28.md",
+    "DailyNotes/2023-03-30.md",
+    "DailyNotes/2023-03-29.md",
     "Weekly/2023 Week 13.md",
+    "Areas/写点什么/2023-03-27.md",
+    "DailyNotes/2023-03-28.md",
+    "Areas/写点什么/2023-03-28.md",
+    "DailyNotes/2023-03-27.md",
+    "Areas/写点什么/2023-03-19.md",
     "ArticleWeekly/13.md",
     "Areas/技术/Rust 读书笔记.md",
     "Areas/技术/前端换肤.md",
+    "Areas/阅读/巨人的工具.md",
+    "Areas/阅读/书单.md",
+    "Areas/阅读/学习之道.md",
+    "Weekly/2023 Week 12.md",
     "DailyNotes/2023-03-24.md",
-    "DailyNotes/2023-03-23.md",
-    "DailyNotes/2023-03-22.md",
-    "DailyNotes/2023-03-21.md",
+    "Inbox/TODO.md",
+    "ArticleWeekly/12.md",
     "Inbox",
     "Areas/技术/React 学习指南.md",
-    "Weekly/2023 Week 12.md",
-    "DailyNotes/2023-03-20.md",
-    "ArticleWeekly/12.md",
-    "ArticleWeekly/11.md",
+    "DailyNotes/2023-03-23.md",
     "DailyNotes/2023-03-19.md",
-    "Areas/写点什么/2023-03-19.md",
-    "Areas/写点什么/2023-03-18.md",
-    "DailyNotes/2023-03-18.md",
-    "DailyNotes/2023-03-16.md",
+    "DailyNotes/2023-03-22.md",
+    "DailyNotes/2023-03-21.md",
+    "ArticleWeekly/11.md",
+    "DailyNotes/2023-03-20.md",
     "DailyNotes/2023-03-17.md",
-    "Areas/写点什么/习惯养成.md",
-    "Areas/写点什么/2023-03-17.md",
-    "DailyNotes/2023-03-14.md",
-    "DailyNotes/2023-03-15.md",
     "Project/大屏项目",
     "Project",
     "Areas/写点什么",
+    "Areas/随想",
     "Areas/技术",
-    "Areas/阅读/How to do the work",
     "ArticleWeekly",
+    "Areas/阅读/How to do the work",
     "Weekly",
-    "Extra/template",
-    "Extra"
+    "Extra/template"
   ]
 }
