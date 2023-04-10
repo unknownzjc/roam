@@ -1,0 +1,29 @@
+{
+  "token": "0w6jpXcRKgOITaIYx77JLCn5WWfe9zLjFd3dlJc5CbjrlvxVoh",
+  "readwiseDir": "Readwise",
+  "frequency": "0",
+  "triggerOnLoad": true,
+  "isSyncing": false,
+  "lastSyncFailed": false,
+  "lastSavedStatusID": 8159591,
+  "currentSyncStatusID": 0,
+  "refreshBooks": false,
+  "booksToRefresh": [],
+  "booksIDsMap": {
+    "Readwise/Articles/字节前端监控实践.md": "24393024",
+    "Readwise/Articles/Clever Code Considered Harmful.md": "24445568",
+    "Readwise/Books/Anything You Want 40 Lessons for a New Kind of Entrepreneur.md": "24932855",
+    "Readwise/Articles/Optimize Time to First Byte.md": "24436243",
+    "Readwise/Articles/Maker's Schedule, Manager's Schedule.md": "25100816",
+    "Readwise/Books/Daily Rituals How Artists Work.md": "25081891",
+    "Readwise/Articles/The Difference Between Good and Great Engineers.md": "25247599",
+    "Readwise/Articles/How to Get New Ideas.md": "25247702",
+    "Readwise/Tweets/Tweets From 夹喵又.md": "25811983",
+    "Readwise/Books/唤醒心中的巨人.md": "25831039",
+    "Readwise/Tweets/Tweets From Dawei Ma.md": "25972010",
+    "Readwise/Tweets/#WorseIsBetter\n今天和一个做内容....md": "26004779",
+    "Readwise/Tweets/为什么要使用 Ai、以图像生成文字\n大家最爱玩....md": "26038383",
+    "Readwise/Books/Building a Second Brain.md": "26261549"
+  },
+  "reimportShowConfirmation": true
+}

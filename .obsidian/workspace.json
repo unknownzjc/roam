@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "667e8be25bd9589f",
+        "id": "7b38a0d085e56c53",
         "type": "tabs",
         "children": [
           {
-            "id": "7665fac8689f044f",
+            "id": "97dfa2df5ee68123",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2023-04-04.md",
+                "file": "Areas/写点什么/2023-04-10.md",
                 "mode": "source",
                 "source": false
               }
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2023-04-04.md",
+                "file": "Areas/写点什么/2023-04-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2023-04-04.md",
+                "file": "Areas/写点什么/2023-04-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2023-04-04.md"
+                "file": "Areas/写点什么/2023-04-10.md"
               }
             }
           },
@@ -165,43 +164,43 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "7665fac8689f044f",
+  "active": "0d8f81e8db21272e",
   "lastOpenFiles": [
-    "DailyNotes/2023-04-05.md",
+    "Readwise/Books/Anything You Want 40 Lessons for a New Kind of Entrepreneur.md",
+    "Areas/写点什么/2023-04-10.md",
+    "Readwise/Books/Building a Second Brain.md",
+    "Readwise/Books/Daily Rituals How Artists Work.md",
+    "vocabularybook.md",
+    "Readwise/Books/唤醒心中的巨人.md",
+    "Readwise/Articles/字节前端监控实践.md",
+    "DailyNotes/2023-04-10.md",
+    "DailyNotes/2023-04-07.md",
+    "DailyNotes/2023-04-11.md",
+    "Readwise/Tweets/#WorseIsBetter\n今天和一个做内容....md",
+    "Readwise/Tweets/Tweets From 夹喵又.md",
+    "Readwise/Tweets/为什么要使用 Ai、以图像生成文字\n大家最爱玩....md",
+    "Readwise/Tweets/Tweets From Dawei Ma.md",
+    "Readwise/Tweets",
+    "Readwise/Articles/How to Get New Ideas.md",
+    "Readwise/Articles/The Difference Between Good and Great Engineers.md",
+    "Readwise/Articles/Maker's Schedule, Manager's Schedule.md",
+    "Readwise/Articles/Optimize Time to First Byte.md",
+    "Readwise/Books",
+    "Readwise/Articles/Clever Code Considered Harmful.md",
+    "Readwise/Articles",
+    "Readwise",
+    "Weekly/2023 Week 15.md",
+    "Areas/写点什么/2023-04-07.md",
+    "Areas/阅读/Maker's Schedule, Manager's Schedule.md",
     "DailyNotes/2023-04-06.md",
-    "Areas/AI/绘画/MJ.md",
+    "Areas/写点什么/2023-04-06.md",
+    "Areas/写点什么/2023-03-30.md",
+    "DailyNotes/2023-04-05.md",
     "Areas/AI/绘画",
     "Areas/AI",
-    "Weekly/2023 Week 14.md",
-    "DailyNotes/2023-04-03.md",
-    "DailyNotes/2023-04-04.md",
-    "DailyNotes/2023-03-31.md",
-    "Areas/写点什么/2023-03-30.md",
-    "Weekly/2023 Week 13.md",
-    "DailyNotes/2023-04-02.md",
-    "DailyNotes/2023-03-29.md",
-    "DailyNotes/2023-03-30.md",
-    "Areas/写点什么/2023-03-27.md",
-    "DailyNotes/2023-03-28.md",
-    "Areas/写点什么/2023-03-28.md",
-    "DailyNotes/2023-03-27.md",
-    "Areas/写点什么/2023-03-19.md",
-    "ArticleWeekly/13.md",
-    "Areas/技术/Rust 读书笔记.md",
-    "Areas/技术/前端换肤.md",
-    "Areas/阅读/巨人的工具.md",
-    "Areas/阅读/书单.md",
-    "Areas/阅读/学习之道.md",
-    "Weekly/2023 Week 12.md",
-    "DailyNotes/2023-03-24.md",
-    "Inbox/TODO.md",
     "Inbox",
     "Project/大屏项目",
     "Project",
-    "Areas/写点什么",
-    "Areas/随想",
-    "Areas/技术",
-    "ArticleWeekly",
-    "Areas/阅读/How to do the work"
+    "Areas/写点什么"
   ]
 }
