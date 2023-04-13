@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2023-04-12.md",
+                "file": "DailyNotes/2023-04-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2023-04-12.md",
+                "file": "DailyNotes/2023-04-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2023-04-12.md",
+                "file": "DailyNotes/2023-04-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2023-04-12.md"
+                "file": "DailyNotes/2023-04-14.md"
               }
             }
           },
@@ -167,11 +167,13 @@
   },
   "active": "7665fac8689f044f",
   "lastOpenFiles": [
-    "DailyNotes/2023-04-11.md",
-    "DailyNotes/2023-04-12.md",
     "DailyNotes/2023-04-13.md",
-    "Inbox/11.md",
+    "DailyNotes/2023-04-12.md",
+    "DailyNotes/2023-04-14.md",
     "Inbox/index.md",
+    "Project/知识管理",
+    "DailyNotes/2023-04-11.md",
+    "Inbox/11.md",
     "Inbox/1.md",
     "Resource",
     "Inbox/构建第二大脑.md",
@@ -200,9 +202,7 @@
     "Areas/AI/绘画/MJ.md",
     "Areas/AI/绘画",
     "Areas/AI",
-    "Weekly/2023 Week 14.md",
     "Inbox",
-    "Project/大屏项目",
-    "Project"
+    "Project/大屏项目"
   ]
 }
