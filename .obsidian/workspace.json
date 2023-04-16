@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2023-04-14.md",
+                "file": "DailyNotes/2023-04-16.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2023-04-14.md",
+                "file": "DailyNotes/2023-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2023-04-14.md",
+                "file": "DailyNotes/2023-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2023-04-14.md"
+                "file": "DailyNotes/2023-04-16.md"
               }
             }
           },
@@ -167,17 +167,20 @@
   },
   "active": "7665fac8689f044f",
   "lastOpenFiles": [
-    "DailyNotes/2023-04-13.md",
+    "DailyNotes/2023-04-17.md",
+    "DailyNotes/2023-04-16.md",
+    "DailyNotes/2023-04-11.md",
+    "DailyNotes/2023-04-10.md",
     "DailyNotes/2023-04-12.md",
+    "DailyNotes/2023-04-13.md",
     "DailyNotes/2023-04-14.md",
+    "DailyNotes/2023-04-15.md",
     "Inbox/index.md",
     "Project/知识管理",
-    "DailyNotes/2023-04-11.md",
     "Inbox/11.md",
     "Inbox/1.md",
     "Resource",
     "Inbox/构建第二大脑.md",
-    "DailyNotes/2023-04-10.md",
     "DailyNotes/2023-04-07.md",
     "vocabularybook.md",
     "Readwise/Books/唤醒心中的巨人.md",
@@ -197,9 +200,6 @@
     "Extra/Picture",
     "Areas/写点什么/2023-04-10.md",
     "DailyNotes/2023-04-04.md",
-    "DailyNotes/2023-04-05.md",
-    "DailyNotes/2023-04-06.md",
-    "Areas/AI/绘画/MJ.md",
     "Areas/AI/绘画",
     "Areas/AI",
     "Inbox",

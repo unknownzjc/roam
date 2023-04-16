@@ -5,26 +5,25 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 8176148,
+  "lastSavedStatusID": 8234703,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
     "26004779",
     "26038383",
     "25811983",
-    "25972010"
+    "25972010",
+    "24445568",
+    "25247702",
+    "24436243",
+    "24932855",
+    "25100816",
+    "25247599",
+    "24393024",
+    "26261549",
+    "26448677",
+    "25831039"
   ],
-  "booksIDsMap": {
-    "Readwise/Articles/字节前端监控实践.md": "24393024",
-    "Readwise/Articles/Clever Code Considered Harmful.md": "24445568",
-    "Readwise/Books/Anything You Want 40 Lessons for a New Kind of Entrepreneur.md": "24932855",
-    "Readwise/Articles/Optimize Time to First Byte.md": "24436243",
-    "Readwise/Articles/Maker's Schedule, Manager's Schedule.md": "25100816",
-    "Readwise/Books/Daily Rituals How Artists Work.md": "25081891",
-    "Readwise/Articles/The Difference Between Good and Great Engineers.md": "25247599",
-    "Readwise/Articles/How to Get New Ideas.md": "25247702",
-    "Readwise/Books/唤醒心中的巨人.md": "25831039",
-    "Readwise/Books/Building a Second Brain.md": "26261549"
-  },
+  "booksIDsMap": {},
   "reimportShowConfirmation": true
 }

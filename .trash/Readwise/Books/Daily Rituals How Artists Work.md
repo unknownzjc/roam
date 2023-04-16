@@ -22,3 +22,14 @@
 - servants ([View Highlight](https://read.readwise.io/read/01gv5kz6v60gnx52zf1gs34za9))
     - Tags: [[vocabularybook]] 
     - Note: 仆人
+# Daily Rituals How Artists Work
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/46989331/cover-cover.jpeg)
+
+## Metadata
+- Author: [[Mason Currey]]
+- Full Title: Daily Rituals How Artists Work
+- Category: #books
+
+## Highlights
+- 一个现代的坚忍者知道，驾驭激情的最可靠的方法是驾驭时间：决定你在一天中想要或应该做什么，然后每天都在完全相同的时间做，激情就不会给你带来麻烦。 ([View Highlight](https://read.readwise.io/read/01gy1m0b9ntsm0n3pj52bc6a0r))
