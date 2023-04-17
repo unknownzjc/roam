@@ -5,7 +5,7 @@
   "triggerOnLoad": true,
   "isSyncing": false,
   "lastSyncFailed": false,
-  "lastSavedStatusID": 8176148,
+  "lastSavedStatusID": 8265485,
   "currentSyncStatusID": 0,
   "refreshBooks": false,
   "booksToRefresh": [
@@ -22,7 +22,18 @@
     "24932855",
     "26261549",
     "25081891",
-    "25831039"
+    "25831039",
+    "24393024",
+    "24932855",
+    "24436243",
+    "25100816",
+    "25247599",
+    "25247702",
+    "25831039",
+    "26379831",
+    "26483333",
+    "26448677",
+    "26345260"
   ],
   "booksIDsMap": {},
   "reimportShowConfirmation": true
