@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "667e8be25bd9589f",
+        "id": "4723b655af6c15b9",
         "type": "tabs",
         "children": [
           {
-            "id": "7665fac8689f044f",
+            "id": "12dbc61b729aa0c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/2023-04-16.md",
+                "file": "Weekly/2023 Week 16.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/2023-04-16.md",
+                "file": "Weekly/2023 Week 16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/2023-04-16.md",
+                "file": "Weekly/2023 Week 16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/2023-04-16.md"
+                "file": "Weekly/2023 Week 16.md"
               }
             }
           },
@@ -146,8 +146,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -165,41 +164,42 @@
       "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "7665fac8689f044f",
+  "active": "12dbc61b729aa0c0",
   "lastOpenFiles": [
+    "Weekly/2023 Week 14.md",
+    "Weekly/2023 Week 16.md",
+    "Weekly/2023 Week 15.md",
     "DailyNotes/2023-04-17.md",
+    "DailyNotes/2023-04-18.md",
+    "冥想.md",
     "DailyNotes/2023-04-16.md",
-    "DailyNotes/2023-04-11.md",
-    "DailyNotes/2023-04-10.md",
-    "DailyNotes/2023-04-12.md",
-    "DailyNotes/2023-04-13.md",
-    "DailyNotes/2023-04-14.md",
     "DailyNotes/2023-04-15.md",
-    "Inbox/index.md",
-    "Project/知识管理",
-    "Inbox/11.md",
-    "Inbox/1.md",
+    "DailyNotes/2023-04-14.md",
+    "DailyNotes/2023-04-13.md",
     "Resource",
-    "Inbox/构建第二大脑.md",
-    "DailyNotes/2023-04-07.md",
     "vocabularybook.md",
-    "Readwise/Books/唤醒心中的巨人.md",
+    "Inbox/index.md",
+    "DailyNotes/2023-04-12.md",
+    "DailyNotes/2023-04-11.md",
+    "Extra/Pasted image 20230411200649.png",
+    "Inbox/构建第二大脑.md",
+    "Extra/Picture/Pasted image 20230411200011.png",
+    "Extra/Picture",
+    "Readwise/Tweets/Tweets From Dawei Ma.md",
+    "Readwise/Tweets/#WorseIsBetter\n今天和一个做内容....md",
+    "Areas/写点什么/2023-04-10.md",
     "Readwise/Books/Anything You Want 40 Lessons for a New Kind of Entrepreneur.md",
-    "Readwise/Books/Daily Rituals How Artists Work.md",
     "Readwise/Books/Building a Second Brain.md",
-    "Readwise/Articles/The Difference Between Good and Great Engineers.md",
+    "Readwise/Books/Daily Rituals How Artists Work.md",
+    "Readwise/Books/唤醒心中的巨人.md",
     "Readwise/Articles/字节前端监控实践.md",
-    "Readwise/Articles/Optimize Time to First Byte.md",
-    "Readwise/Articles/Maker's Schedule, Manager's Schedule.md",
-    "Readwise/Articles/How to Get New Ideas.md",
-    "Readwise/Articles/Clever Code Considered Harmful.md",
+    "DailyNotes/2023-04-10.md",
+    "DailyNotes/2023-04-07.md",
+    "Readwise/Tweets/Tweets From 夹喵又.md",
+    "Readwise/Tweets",
     "Readwise/Books",
     "Readwise/Articles",
     "Readwise",
-    "Extra/Picture/Pasted image 20230411200011.png",
-    "Extra/Picture",
-    "Areas/写点什么/2023-04-10.md",
-    "DailyNotes/2023-04-04.md",
     "Areas/AI/绘画",
     "Areas/AI",
     "Inbox",
