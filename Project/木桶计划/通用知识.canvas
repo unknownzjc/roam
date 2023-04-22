@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"0301f84155135557","x":-520,"y":-280,"width":250,"height":60,"type":"text","text":"浏览器"},
+		{"id":"e7cb8a4c3ecc6fcf","x":-60,"y":-280,"width":250,"height":60,"type":"text","text":"网络"}
+	],
+	"edges":[]
+}

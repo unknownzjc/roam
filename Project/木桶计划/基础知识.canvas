@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"text","text":"闭包的工作原理","id":"07f44f52bb92e5b8","x":-520,"y":-100,"width":250,"height":60},
+		{"id":"578469341e838f33","x":-520,"y":-180,"width":250,"height":60,"type":"text","text":"继承"},
+		{"id":"b1e3cab87cb9763f","x":-520,"y":-20,"width":250,"height":60,"type":"text","text":"异步编程"},
+		{"id":"3a7c820bb9cb2b62","x":-520,"y":60,"width":250,"height":60,"type":"text","text":"模块化机制"}
+	],
+	"edges":[]
+}

@@ -1,18 +1,23 @@
 {
 	"nodes":[
+		{"id":"2c00a8cb2a937cde","x":-600,"y":40,"width":610,"height":223,"type":"group","label":"PARA"},
 		{"type":"text","text":"知识管理实践","id":"a3a4b99b115dc7ee","x":-240,"y":-540,"width":250,"height":60},
-		{"id":"7cdaedb5e91f93e7","x":-860,"y":-100,"width":250,"height":60,"type":"text","text":"capture"},
-		{"id":"50fb757adc1573b9","x":-520,"y":-100,"width":250,"height":60,"type":"text","text":"organize"},
+		{"type":"text","text":"capture","id":"7cdaedb5e91f93e7","x":-860,"y":-100,"width":250,"height":60},
 		{"type":"text","text":"核心：CODE ","id":"f6c0bc030c68c4fa","x":-580,"y":-360,"width":250,"height":60},
-		{"id":"980552bda6124659","x":-1140,"y":55,"width":315,"height":245,"type":"text","text":"inbox：Readwise，Notion\n最终的收纳地：Obsidian\n\n"},
-		{"id":"65b64cf0751cd8e8","x":-680,"y":55,"width":250,"height":60,"type":"text","text":"Project"}
+		{"type":"text","text":"inbox：Readwise，Notion\n最终的收纳地：Obsidian\n\n","id":"980552bda6124659","x":-1140,"y":55,"width":315,"height":245},
+		{"id":"58062ceffc2ffbeb","x":-1240,"y":-698,"width":468,"height":437,"type":"text","text":"大纲\n- 什么是第二大脑\n- 如何创建第二大脑\n\t- CODE\n\t- PARA\n\t- 渐进式总结\n- 第二大脑实践"},
+		{"type":"text","text":"Project","id":"65b64cf0751cd8e8","x":-580,"y":60,"width":250,"height":60},
+		{"id":"7a903647bdb3bb60","x":-260,"y":60,"width":250,"height":60,"type":"text","text":"Area"},
+		{"id":"2fa3b0c1077dc292","x":-580,"y":183,"width":250,"height":60,"type":"text","text":"Resource"},
+		{"id":"95d7dfa6ad9d214b","x":-260,"y":183,"width":250,"height":60,"type":"text","text":"Archives"},
+		{"type":"text","text":"organize","id":"50fb757adc1573b9","x":-420,"y":-100,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"1b226b52f285ad1d","fromNode":"a3a4b99b115dc7ee","fromSide":"bottom","toNode":"f6c0bc030c68c4fa","toSide":"top"},
 		{"id":"b9e5b09b1a6545f8","fromNode":"f6c0bc030c68c4fa","fromSide":"bottom","toNode":"7cdaedb5e91f93e7","toSide":"top"},
 		{"id":"168b43f76965963a","fromNode":"f6c0bc030c68c4fa","fromSide":"bottom","toNode":"50fb757adc1573b9","toSide":"top"},
-		{"id":"bef0c571230b3543","fromNode":"50fb757adc1573b9","fromSide":"bottom","toNode":"65b64cf0751cd8e8","toSide":"top"},
 		{"id":"63fc36295d2d0aa1","fromNode":"7cdaedb5e91f93e7","fromSide":"bottom","toNode":"980552bda6124659","toSide":"top"},
-		{"id":"0263ae4dd42d4815","fromNode":"980552bda6124659","fromSide":"right","toNode":"65b64cf0751cd8e8","toSide":"left","label":"支撑"}
+		{"id":"0263ae4dd42d4815","fromNode":"980552bda6124659","fromSide":"right","toNode":"65b64cf0751cd8e8","toSide":"left","label":"支撑"},
+		{"id":"188e48b2e89088e7","fromNode":"50fb757adc1573b9","fromSide":"bottom","toNode":"2c00a8cb2a937cde","toSide":"top"}
 	]
 }
