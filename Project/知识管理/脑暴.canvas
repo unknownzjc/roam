@@ -1,23 +1,29 @@
 {
 	"nodes":[
-		{"id":"2c00a8cb2a937cde","x":-600,"y":40,"width":610,"height":223,"type":"group","label":"PARA"},
+		{"type":"group","id":"2c00a8cb2a937cde","x":-420,"y":120,"width":610,"height":223,"label":"PARA"},
 		{"type":"text","text":"知识管理实践","id":"a3a4b99b115dc7ee","x":-240,"y":-540,"width":250,"height":60},
 		{"type":"text","text":"capture","id":"7cdaedb5e91f93e7","x":-860,"y":-100,"width":250,"height":60},
 		{"type":"text","text":"核心：CODE ","id":"f6c0bc030c68c4fa","x":-580,"y":-360,"width":250,"height":60},
-		{"type":"text","text":"inbox：Readwise，Notion\n最终的收纳地：Obsidian\n\n","id":"980552bda6124659","x":-1140,"y":55,"width":315,"height":245},
-		{"id":"58062ceffc2ffbeb","x":-1240,"y":-698,"width":468,"height":437,"type":"text","text":"大纲\n- 什么是第二大脑\n- 如何创建第二大脑\n\t- CODE\n\t- PARA\n\t- 渐进式总结\n- 第二大脑实践"},
-		{"type":"text","text":"Project","id":"65b64cf0751cd8e8","x":-580,"y":60,"width":250,"height":60},
-		{"id":"7a903647bdb3bb60","x":-260,"y":60,"width":250,"height":60,"type":"text","text":"Area"},
-		{"id":"2fa3b0c1077dc292","x":-580,"y":183,"width":250,"height":60,"type":"text","text":"Resource"},
-		{"id":"95d7dfa6ad9d214b","x":-260,"y":183,"width":250,"height":60,"type":"text","text":"Archives"},
-		{"type":"text","text":"organize","id":"50fb757adc1573b9","x":-420,"y":-100,"width":250,"height":60}
+		{"type":"text","text":"大纲\n- 什么是第二大脑\n- 如何创建第二大脑\n\t- CODE\n\t- PARA\n\t- 渐进式总结\n- 第二大脑实践","id":"58062ceffc2ffbeb","x":-1240,"y":-698,"width":468,"height":437},
+		{"type":"text","text":"organize","id":"50fb757adc1573b9","x":-420,"y":-100,"width":250,"height":60},
+		{"id":"1852bd1dee12ba43","x":-1006,"y":293,"width":396,"height":367,"type":"text","text":"4层渐进式总结\n- 阅读材料中的高亮部分(摘要)\n- 加粗高亮中能代表其概念的核心句子，单词\n- 高亮摘要中引发你思考，有趣的观点\n- summary\n\t- 仅当频繁访问时才有必要做到这一层"},
+		{"type":"text","text":"inbox：Readwise，Notion\n最终的收纳地：Obsidian\n\n","id":"980552bda6124659","x":-1480,"y":201,"width":315,"height":245},
+		{"type":"text","text":"Project","id":"65b64cf0751cd8e8","x":-400,"y":140,"width":250,"height":60},
+		{"type":"text","text":"Archives","id":"95d7dfa6ad9d214b","x":-80,"y":140,"width":250,"height":60},
+		{"type":"text","text":"Area","id":"7a903647bdb3bb60","x":-400,"y":263,"width":250,"height":60},
+		{"type":"text","text":"Resource","id":"2fa3b0c1077dc292","x":-80,"y":263,"width":250,"height":60},
+		{"id":"6525f20882168d90","x":-580,"y":520,"width":465,"height":380,"type":"text","text":"中间数据包的归类\n不要在摘录的第一时间就归类，可以让他们一直被放在 inbox 中，我们的视角始终放在 Project 中，可以始终围绕当前进行的项目来组织我们的知识块，这样的方式是摩擦最小的。\n数据一旦进入第二大脑，那么它就是可被搜索的，它就是一个兜底的手段，所以我们无需着急归类。\n"}
 	],
 	"edges":[
 		{"id":"1b226b52f285ad1d","fromNode":"a3a4b99b115dc7ee","fromSide":"bottom","toNode":"f6c0bc030c68c4fa","toSide":"top"},
 		{"id":"b9e5b09b1a6545f8","fromNode":"f6c0bc030c68c4fa","fromSide":"bottom","toNode":"7cdaedb5e91f93e7","toSide":"top"},
 		{"id":"168b43f76965963a","fromNode":"f6c0bc030c68c4fa","fromSide":"bottom","toNode":"50fb757adc1573b9","toSide":"top"},
 		{"id":"63fc36295d2d0aa1","fromNode":"7cdaedb5e91f93e7","fromSide":"bottom","toNode":"980552bda6124659","toSide":"top"},
-		{"id":"0263ae4dd42d4815","fromNode":"980552bda6124659","fromSide":"right","toNode":"65b64cf0751cd8e8","toSide":"left","label":"支撑"},
-		{"id":"188e48b2e89088e7","fromNode":"50fb757adc1573b9","fromSide":"bottom","toNode":"2c00a8cb2a937cde","toSide":"top"}
+		{"id":"188e48b2e89088e7","fromNode":"50fb757adc1573b9","fromSide":"bottom","toNode":"2c00a8cb2a937cde","toSide":"top"},
+		{"id":"f5be16442b34bb90","fromNode":"65b64cf0751cd8e8","fromSide":"bottom","toNode":"7a903647bdb3bb60","toSide":"top"},
+		{"id":"9dbc9d81e891b2c8","fromNode":"7a903647bdb3bb60","fromSide":"right","toNode":"2fa3b0c1077dc292","toSide":"left"},
+		{"id":"db2d4fddb0b71a3b","fromNode":"2fa3b0c1077dc292","fromSide":"top","toNode":"95d7dfa6ad9d214b","toSide":"bottom"},
+		{"id":"a22d0826e2ab9acc","fromNode":"980552bda6124659","fromSide":"right","toNode":"1852bd1dee12ba43","toSide":"left","label":"燃料"},
+		{"id":"906c6611bc55d0b7","fromNode":"1852bd1dee12ba43","fromSide":"right","toNode":"65b64cf0751cd8e8","toSide":"left","label":"中间数据包"}
 	]
 }
