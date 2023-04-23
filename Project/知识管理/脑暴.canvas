@@ -12,7 +12,8 @@
 		{"type":"text","text":"Archives","id":"95d7dfa6ad9d214b","x":-80,"y":140,"width":250,"height":60},
 		{"type":"text","text":"Area","id":"7a903647bdb3bb60","x":-400,"y":263,"width":250,"height":60},
 		{"type":"text","text":"Resource","id":"2fa3b0c1077dc292","x":-80,"y":263,"width":250,"height":60},
-		{"id":"6525f20882168d90","x":-580,"y":520,"width":465,"height":380,"type":"text","text":"中间数据包的归类\n不要在摘录的第一时间就归类，可以让他们一直被放在 inbox 中，我们的视角始终放在 Project 中，可以始终围绕当前进行的项目来组织我们的知识块，这样的方式是摩擦最小的。\n数据一旦进入第二大脑，那么它就是可被搜索的，它就是一个兜底的手段，所以我们无需着急归类。\n"}
+		{"id":"6525f20882168d90","x":-580,"y":520,"width":465,"height":380,"type":"text","text":"中间数据包的归类\n不要在摘录的第一时间就归类，可以让他们一直被放在 inbox 中，我们的视角始终放在 Project 中，可以始终围绕当前进行的项目来组织我们的知识块，这样的方式是摩擦最小的。\n数据一旦进入第二大脑，那么它就是可被搜索的，它就是一个兜底的手段，所以我们无需着急归类。\n"},
+		{"id":"14ef3a080bec0b9a","x":-80,"y":520,"width":480,"height":380,"type":"text","text":"PARA 的思考\n集中在 Project 上，可以不用关注 Area，Resource，这两个现在好像还没用得上，Resource 的功能可以用 Notion 来平替，可以评论 + 高亮，相比 Obsidian 有更好的"}
 	],
 	"edges":[
 		{"id":"1b226b52f285ad1d","fromNode":"a3a4b99b115dc7ee","fromSide":"bottom","toNode":"f6c0bc030c68c4fa","toSide":"top"},
