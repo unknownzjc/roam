@@ -6,7 +6,8 @@ date modified: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 - Before Work
 - Deep Work 1
 - Noon
-	- 5分钟的肩颈改善训练
+	- 12:30 - 13:20
+		- [ ] 阅读
 - Deep Work 2
 - 运动
 - Shallow Work
