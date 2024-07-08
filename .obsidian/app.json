@@ -4,5 +4,11 @@
   "attachmentFolderPath": "Extra/Picture",
   "userIgnoreFilters": [
     "Extra/"
-  ]
+  ],
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
